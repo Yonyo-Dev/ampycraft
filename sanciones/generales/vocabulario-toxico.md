@@ -1,6 +1,7 @@
 ---
 description: 'Formato de sancion: /tempmute o /warn (Nick) (Tiempo) Vocabulario toxico (#).'
 hidden: true
+noIndex: true
 ---
 
 # Vocabulario Toxico

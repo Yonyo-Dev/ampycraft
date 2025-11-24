@@ -1,5 +1,6 @@
 ---
 description: Aquí podras encontrar las sanciones generales de todas las modalides
+noIndex: true
 ---
 
 # GENERALES

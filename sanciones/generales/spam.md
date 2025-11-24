@@ -1,5 +1,6 @@
 ---
 description: 'Formato de sanción: /tempmute o /warn (Nick) (Tiempo) Spam (#).'
+hidden: true
 noIndex: true
 ---
 
