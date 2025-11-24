@@ -5,10 +5,10 @@ hidden: true
 
 # Vocabulario Obsceno
 
-Se considera vocabulario obsceno cuando un jugador dice en una oracion similitudes a las palabras: pene o vagina
+<sup>Se considera vocabulario obsceno cuando un jugador dice en una oracion similitudes a las palabras: pene o vagina</sup>
 
-Sanción #1: Muteo temporal 2 horas.
+<sup>Sanción #1: Muteo temporal 2 horas.</sup>
 
-Sanción #2: Muteo temporal 12 horas.
+<sup>Sanción #2: Muteo temporal 12 horas.</sup>
 
-Sanción #3: Mute temporal 1 día.
+<sup>Sanción #3: Mute temporal 1 día.</sup>

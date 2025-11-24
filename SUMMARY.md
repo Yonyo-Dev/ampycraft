@@ -24,3 +24,7 @@
   * [Vocabulario Obsceno](sanciones/generales/vocabulario-obsceno.md)
   * [Vocabulario tóxico al Staff](sanciones/generales/vocabulario-toxico-al-staff.md)
   * [Vocabulario tóxico al Staff Administrativo.](sanciones/generales/vocabulario-toxico-al-staff-administrativo..md)
+  * [Insultos al Servidor](sanciones/generales/insultos-al-servidor.md)
+  * [Mención de servidores externos.](sanciones/generales/mencion-de-servidores-externos..md)
+  * [Uso de Cheats / Clientes Ilegales / Macros / AutoClick](sanciones/generales/uso-de-cheats-clientes-ilegales-macros-autoclick.md)
+  * [Uso de Mods / TexturePacks Ilegales.](sanciones/generales/uso-de-mods-texturepacks-ilegales..md)
