@@ -6,10 +6,10 @@ noIndex: true
 # GENERALES
 
 1. [<sup>**USO DE MAYUSCULAS**</sup>](uso-de-mayusculas.md)
-2. [<sup>FLOOD</sup>](flood.md)
-3. [<sup>SPAM</sup>](spam.md)
-4. [<sup>VOCABULARIO TOXICO</sup>](vocabulario-toxico.md)
-5. [<sup>VOCABULARIO OBSENO</sup>](vocabulario-obsceno.md)
+2. [<sup>**FLOOD**</sup>](flood.md)
+3. [<sup>**SPAM**</sup>](spam.md)
+4. [<sup>**VOCABULARIO TOXICO**</sup>](vocabulario-toxico.md)
+5. [<sup>**VOCABULARIO OBSENO**</sup>](vocabulario-obsceno.md)
 6. [<sup>**VOCABULARIO TOXICO AL STAFF**</sup>](vocabulario-toxico-al-staff.md)
 7. [<sup>**VOCABULARIO TOXICO AL STAFF ADMINISTRATIVO**</sup>](vocabulario-toxico-al-staff-administrativo..md)
 8. [<sup>**INSULTOS AL SERVIDOR**</sup>](insultos-al-servidor.md)
@@ -18,7 +18,7 @@ noIndex: true
 11. [<sup>**USO DE MODS / TEXTURASPACKS ILEGALES**</sup>](uso-de-mods-texturepacks-ilegales..md)
 12. [<sup>**COMPLICE DE USO DE CHEATS /CLIENTES ILEGALES / MACROS / MODS ILEGALES / TEXTUREPACK ILEGALES**</sup>](complice-de-uso-de-cheats-clientes-ilegales-macros-autoclick-mods-ilegales-texturepacks-il.md)
 13. [<sup>**ADMITIR USO DE CHEATS / CLIENTES ILEGALES / MACROS / AUTOCLICK**</sup>](admitir-uso-de-cheats-clientes-ilegales-macros-autoclick..md)
-14. <sup>**ADMITIR USO DE MODS / TEXTUREPACKS ILEGALES**</sup>
+14. [<sup>**ADMITIR USO DE MODS / TEXTUREPACKS ILEGALES**</sup>](admitir-uso-de-mods-texturepacks-ilegales..md)
 15. <sup>**CHEATS / MACROS ENCONTRADOS EN SS**</sup>
 16. <sup>**MODS / TEXTUREPACKS ENCONTRADOS EN SS**</sup>
 17. <sup>**EVADIR SANCION**</sup>

@@ -31,3 +31,8 @@
   * [Cómplice de Uso de Cheats / Clientes Ilegales / Macros / AutoClick / Mods Ilegales / TexturePacks Il](sanciones/generales/complice-de-uso-de-cheats-clientes-ilegales-macros-autoclick-mods-ilegales-texturepacks-il.md)
   * [Admitir Uso de Cheats / Clientes Ilegales / Macros / AutoClick.](sanciones/generales/admitir-uso-de-cheats-clientes-ilegales-macros-autoclick..md)
   * [Admitir Uso de Mods / TexturePacks Ilegales.](sanciones/generales/admitir-uso-de-mods-texturepacks-ilegales..md)
+  * [Cheats / Macros encontrados en SS](sanciones/generales/cheats-macros-encontrados-en-ss.md)
+  * [Mods / TexturePacks Ilegales encontrado en SS.](sanciones/generales/mods-texturepacks-ilegales-encontrado-en-ss..md)
+  * [Evadir Sanción.](sanciones/generales/evadir-sancion..md)
+  * [Evadir SS / Desconectarse congelado.](sanciones/generales/evadir-ss-desconectarse-congelado..md)
+  * [Mal uso de /helpop, /report.](sanciones/generales/mal-uso-de-helpop-report..md)
