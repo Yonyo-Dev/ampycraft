@@ -21,4 +21,6 @@
   * [Flood](sanciones/generales/flood.md)
   * [Spam](sanciones/generales/spam.md)
   * [Vocabulario Toxico](sanciones/generales/vocabulario-toxico.md)
-  * [Page](sanciones/generales/page.md)
+  * [Vocabulario Obsceno](sanciones/generales/vocabulario-obsceno.md)
+  * [Vocabulario tóxico al Staff](sanciones/generales/vocabulario-toxico-al-staff.md)
+  * [Vocabulario tóxico al Staff Administrativo.](sanciones/generales/vocabulario-toxico-al-staff-administrativo..md)

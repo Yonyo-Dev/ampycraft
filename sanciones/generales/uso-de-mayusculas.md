@@ -5,10 +5,10 @@ hidden: true
 
 # Uso de Mayusculas
 
-Sanción #1: Advertencia en el chat y /warn.
+<sup>Sanción #1: Advertencia en el chat y /warn.</sup>
 
-Sanción #2: Muteo temporal 15 minutos.
+<sup>Sanción #2: Muteo temporal 15 minutos.</sup>
 
-Sanción #3: Muteo temporal 30 minutos.
+<sup>Sanción #3: Muteo temporal 30 minutos.</sup>
 
-Sanción #4: Muteo temporal 1 hora.
+<sup>Sanción #4: Muteo temporal 1 hora.</sup>

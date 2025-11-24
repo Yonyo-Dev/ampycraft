@@ -5,18 +5,18 @@ hidden: true
 
 # Spam
 
-#### Spam. <a href="#h.kdqym4cueu7d_l" id="h.kdqym4cueu7d_l"></a>
+#### <sup>Spam.</sup> <a href="#h.kdqym4cueu7d_l" id="h.kdqym4cueu7d_l"></a>
 
-Spam es un término que se refiere a la publicidad. No está permitida la publicidad de enlaces externos a Los Taroleros.
+<sup>Spam es un término que se refiere a la publicidad. No está permitida la publicidad de enlaces externos a Los Taroleros.</sup>
 
-* Hola Hola Hola Hola
+* <sup>Hola Hola Hola Hola</sup>
 
-Sanción #1: Advertencia en el chat y /warn.
+<sup>Sanción #1: Advertencia en el chat y /warn.</sup>
 
-Sanción #2: Muteo temporal 15 minutos.
+<sup>Sanción #2: Muteo temporal 15 minutos.</sup>
 
-Sanción #3: Muteo temporal 30 minutos.
+<sup>Sanción #3: Muteo temporal 30 minutos.</sup>
 
-Sanción #4: Muteo temporal 1 hora.
+<sup>Sanción #4: Muteo temporal 1 hora.</sup>
 
-Sanción #5: Muteo temporal 6 horas.
+<sup>Sanción #5: Muteo temporal 6 horas.</sup>

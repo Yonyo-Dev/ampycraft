@@ -5,22 +5,22 @@ hidden: true
 
 # Flood
 
-#### Flood. <a href="#h.3crj2fgchxaq_l" id="h.3crj2fgchxaq_l"></a>
+#### <sup>Flood.</sup> <a href="#h.3crj2fgchxaq_l" id="h.3crj2fgchxaq_l"></a>
 
-Flood es un término cuya traducción es "Inundación", se refiere a inundar el chat de alguna manera, ejemplos:
+<sup>Flood es un término cuya traducción es "Inundación", se refiere a inundar el chat de alguna manera, ejemplos:</sup>
 
-* Holaaaaaaaaaaaaaa.
-* FFFFFFFFFFFFF
-* EEEEEEEEEZZZZZZZZZZZ
+* <sup>Holaaaaaaaaaaaaaa.</sup>
+* <sup>FFFFFFFFFFFFF</sup>
+* <sup>EEEEEEEEEZZZZZZZZZZZ</sup>
 
-Sanción #1: Advertencia en el chat y /warn.
+<sup>Sanción #1: Advertencia en el chat y /warn.</sup>
 
-Sanción #2: Muteo temporal 30 minutos.
+<sup>Sanción #2: Muteo temporal 30 minutos.</sup>
 
-Sanción #3: Muteo temporal 2 horas.
+<sup>Sanción #3: Muteo temporal 2 horas.</sup>
 
-Sanción #4: Muteo temporal 6 horas.
+<sup>Sanción #4: Muteo temporal 6 horas.</sup>
 
-Sanción #5: Muteo temporal 12 horas.
+<sup>Sanción #5: Muteo temporal 12 horas.</sup>
 
-Sanción #6: Baneo temporal 1 día.
+<sup>Sanción #6: Baneo temporal 1 día.</sup>
