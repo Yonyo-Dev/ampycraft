@@ -11,10 +11,10 @@ description: Aquí podras encontrar las sanciones generales de todas las modalid
 5. [<sup>VOCABULARIO OBSENO</sup>](vocabulario-obsceno.md)
 6. [<sup>**VOCABULARIO TOXICO AL STAFF**</sup>](vocabulario-toxico-al-staff.md)
 7. [<sup>**VOCABULARIO TOXICO AL STAFF ADMINISTRATIVO**</sup>](vocabulario-toxico-al-staff-administrativo..md)
-8. <sup>**INSULTOS AL SERVIDOR**</sup>
-9. <sup>**MENCION DE SERVIDORES EXTERNOS**</sup>
-10. <sup>**USO DE CHEATS / CLIENTES ILEGALES / MACROS / AUTOCLICK**</sup>
-11. <sup>**USO DE MODS / TEXTURASPACKS ILEGALES**</sup>
+8. [<sup>**INSULTOS AL SERVIDOR**</sup>](insultos-al-servidor.md)
+9. [<sup>**MENCION DE SERVIDORES EXTERNOS**</sup>](mencion-de-servidores-externos..md)
+10. [<sup>**USO DE CHEATS / CLIENTES ILEGALES / MACROS / AUTOCLICK**</sup>](uso-de-cheats-clientes-ilegales-macros-autoclick.md)
+11. [<sup>**USO DE MODS / TEXTURASPACKS ILEGALES**</sup>](uso-de-mods-texturepacks-ilegales..md)
 12. <sup>**COMPLICE DE USO DE CHEATS /CLIENTES ILEGALES / MACROS / MODS ILEGALES / TEXTUREPACK ILEGALES**</sup>
 13. <sup>**ADMITIR USO DE CHEATS / CLIENTES ILEGALES / MACROS / AUTOCLICK**</sup>
 14. <sup>**ADMITIR USO DE MODS / TEXTUREPACKS ILEGALES**</sup>

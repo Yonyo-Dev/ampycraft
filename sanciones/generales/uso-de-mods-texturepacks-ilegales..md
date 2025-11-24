@@ -2,6 +2,7 @@
 description: >-
   Formato de sanción: /tempban (Nick) (Tiempo) Uso de mods ilegales |
   (Modalidad) (#).
+hidden: true
 ---
 
 # Uso de Mods / TexturePacks Ilegales.
