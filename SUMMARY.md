@@ -36,3 +36,7 @@
   * [Evadir Sanción.](sanciones/generales/evadir-sancion..md)
   * [Evadir SS / Desconectarse congelado.](sanciones/generales/evadir-ss-desconectarse-congelado..md)
   * [Mal uso de /helpop, /report.](sanciones/generales/mal-uso-de-helpop-report..md)
+  * [Mentir al Staff](sanciones/generales/mentir-al-staff.md)
+  * [Compartir páginas web ajenas.](sanciones/generales/compartir-paginas-web-ajenas..md)
+  * [Compartir IP de servidor ajeno](sanciones/generales/compartir-ip-de-servidor-ajeno.md)
+  * [Fastidiar verbal y constantemente a alguna persona.](sanciones/generales/fastidiar-verbal-y-constantemente-a-alguna-persona..md)
