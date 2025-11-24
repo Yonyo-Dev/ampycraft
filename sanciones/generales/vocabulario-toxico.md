@@ -23,3 +23,9 @@ noIndex: true
 <sup>Sanción #6: Mute temporal 1 día.</sup>
 
 <sup>Sanción #7: Mute temporal 3 días.</sup>
+
+
+
+> [<sup>volver a generales</sup>](./)
+
+***

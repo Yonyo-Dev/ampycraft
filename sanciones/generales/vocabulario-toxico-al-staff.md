@@ -16,3 +16,9 @@ hidden: true
 <sup>Sanción #3: Muteo temporal de 1 día.</sup>
 
 <sup>Sanción #4: Muteo temporal de 3 días.</sup>
+
+
+
+> [<sup>volver a generales</sup>](./)
+
+***

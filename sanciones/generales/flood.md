@@ -25,3 +25,10 @@ noIndex: true
 <sup>Sanción #5: Muteo temporal 12 horas.</sup>
 
 <sup>Sanción #6: Baneo temporal 1 día.</sup>
+
+
+
+> [<sup>volver a generales</sup>](./)
+
+***
+

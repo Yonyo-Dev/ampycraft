@@ -12,3 +12,9 @@ hidden: true
 <sup>Sanción #2: Muteo temporal 12 horas.</sup>
 
 <sup>Sanción #3: Mute temporal 1 día.</sup>
+
+
+
+> [<sup>volver a generales</sup>](./)
+
+***

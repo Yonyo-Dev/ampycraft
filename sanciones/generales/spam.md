@@ -21,3 +21,9 @@ noIndex: true
 <sup>Sanción #4: Muteo temporal 1 hora.</sup>
 
 <sup>Sanción #5: Muteo temporal 6 horas.</sup>
+
+
+
+> [<sup>volver a generales</sup>](./)
+
+***

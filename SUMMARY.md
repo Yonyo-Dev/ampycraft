@@ -43,4 +43,3 @@
   * [Acoso](sanciones/generales/acoso.md)
   * [Estafa a la Tienda del Servidor](sanciones/generales/estafa-a-la-tienda-del-servidor.md)
   * [Uso de Skin inapropiada](sanciones/generales/uso-de-skin-inapropiada.md)
-  * [Uso de Skin inapropiada | Guia Staff - Los Taroleros](sanciones/generales/uso-de-skin-inapropiada-or-guia-staff-los-taroleros.md)
