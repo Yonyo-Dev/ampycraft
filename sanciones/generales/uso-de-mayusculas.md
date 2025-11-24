@@ -1,5 +1,6 @@
 ---
 description: 'Formato de sanción: /tempmute o /warn (Nick) (Tiempo) Uso de mayúsculas (#).'
+noIndex: true
 ---
 
 # Uso de Mayusculas
