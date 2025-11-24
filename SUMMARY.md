@@ -9,5 +9,7 @@
 
 ## 📚 RANGOS
 
-* [Administrador](rangos/administrador.md)
-* [Moderadores](rangos/moderadores.md)
+* [ADMINISTRADOR](rangos/administrador.md)
+* [MODERADORES](rangos/moderadores.md)
+* [AYUDANTE](rangos/ayudante.md)
+* [DC-SUPPORT](rangos/dc-support.md)
