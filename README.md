@@ -1,5 +1,6 @@
 ---
 description: Bienvenido al equipo de Staff de nordicosmc.com.
+coverY: 0
 ---
 
 # BIENVENIDA
