@@ -28,3 +28,6 @@
   * [Mención de servidores externos.](sanciones/generales/mencion-de-servidores-externos..md)
   * [Uso de Cheats / Clientes Ilegales / Macros / AutoClick](sanciones/generales/uso-de-cheats-clientes-ilegales-macros-autoclick.md)
   * [Uso de Mods / TexturePacks Ilegales.](sanciones/generales/uso-de-mods-texturepacks-ilegales..md)
+  * [Cómplice de Uso de Cheats / Clientes Ilegales / Macros / AutoClick / Mods Ilegales / TexturePacks Il](sanciones/generales/complice-de-uso-de-cheats-clientes-ilegales-macros-autoclick-mods-ilegales-texturepacks-il.md)
+  * [Admitir Uso de Cheats / Clientes Ilegales / Macros / AutoClick.](sanciones/generales/admitir-uso-de-cheats-clientes-ilegales-macros-autoclick..md)
+  * [Admitir Uso de Mods / TexturePacks Ilegales.](sanciones/generales/admitir-uso-de-mods-texturepacks-ilegales..md)

@@ -16,8 +16,8 @@ noIndex: true
 9. [<sup>**MENCION DE SERVIDORES EXTERNOS**</sup>](mencion-de-servidores-externos..md)
 10. [<sup>**USO DE CHEATS / CLIENTES ILEGALES / MACROS / AUTOCLICK**</sup>](uso-de-cheats-clientes-ilegales-macros-autoclick.md)
 11. [<sup>**USO DE MODS / TEXTURASPACKS ILEGALES**</sup>](uso-de-mods-texturepacks-ilegales..md)
-12. <sup>**COMPLICE DE USO DE CHEATS /CLIENTES ILEGALES / MACROS / MODS ILEGALES / TEXTUREPACK ILEGALES**</sup>
-13. <sup>**ADMITIR USO DE CHEATS / CLIENTES ILEGALES / MACROS / AUTOCLICK**</sup>
+12. [<sup>**COMPLICE DE USO DE CHEATS /CLIENTES ILEGALES / MACROS / MODS ILEGALES / TEXTUREPACK ILEGALES**</sup>](complice-de-uso-de-cheats-clientes-ilegales-macros-autoclick-mods-ilegales-texturepacks-il.md)
+13. [<sup>**ADMITIR USO DE CHEATS / CLIENTES ILEGALES / MACROS / AUTOCLICK**</sup>](admitir-uso-de-cheats-clientes-ilegales-macros-autoclick..md)
 14. <sup>**ADMITIR USO DE MODS / TEXTUREPACKS ILEGALES**</sup>
 15. <sup>**CHEATS / MACROS ENCONTRADOS EN SS**</sup>
 16. <sup>**MODS / TEXTUREPACKS ENCONTRADOS EN SS**</sup>
