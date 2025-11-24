@@ -13,3 +13,11 @@
 * [MODERADORES](rangos/moderadores.md)
 * [AYUDANTE](rangos/ayudante.md)
 * [DC-SUPPORT](rangos/dc-support.md)
+
+## SANCIONES
+
+* [GENERALES](sanciones/generales.md)
+
+## GENERALES
+
+* [Uso de Mayusculas](generales/uso-de-mayusculas.md)
