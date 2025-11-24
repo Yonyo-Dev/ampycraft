@@ -40,3 +40,7 @@
   * [Compartir páginas web ajenas.](sanciones/generales/compartir-paginas-web-ajenas..md)
   * [Compartir IP de servidor ajeno](sanciones/generales/compartir-ip-de-servidor-ajeno.md)
   * [Fastidiar verbal y constantemente a alguna persona.](sanciones/generales/fastidiar-verbal-y-constantemente-a-alguna-persona..md)
+  * [Acoso](sanciones/generales/acoso.md)
+  * [Estafa a la Tienda del Servidor](sanciones/generales/estafa-a-la-tienda-del-servidor.md)
+  * [Uso de Skin inapropiada](sanciones/generales/uso-de-skin-inapropiada.md)
+  * [Uso de Skin inapropiada | Guia Staff - Los Taroleros](sanciones/generales/uso-de-skin-inapropiada-or-guia-staff-los-taroleros.md)

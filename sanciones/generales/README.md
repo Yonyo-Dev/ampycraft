@@ -24,10 +24,10 @@ noIndex: true
 17. [<sup>**EVADIR SANCION**</sup>](evadir-sancion..md)
 18. [<sup>**EVADIR SS / DESCONECTARSE CONGELADO**</sup>](evadir-ss-desconectarse-congelado..md)
 19. [<sup>**MAL USO DE  /HELPOP /REPORT**</sup>](mal-uso-de-helpop-report..md)
-20. <sup>**MENTIR AL STAFF**</sup>
-21. <sup>**COMPARTIR PAGINAS WEB AJENAS**</sup>
-22. <sup>**COMPARTIR IP DE SERVIDOR AJENO**</sup>
-23. <sup>**FASTIDIAR VERBAL Y CONSTANTEMENTE A ALGUNAS PERSONAS**</sup>
+20. [<sup>**MENTIR AL STAFF**</sup>](mentir-al-staff.md)
+21. [<sup>**COMPARTIR PAGINAS WEB AJENAS**</sup>](compartir-paginas-web-ajenas..md)
+22. [<sup>**COMPARTIR IP DE SERVIDOR AJENO**</sup>](compartir-ip-de-servidor-ajeno.md)
+23. [<sup>**FASTIDIAR VERBAL Y CONSTANTEMENTE A ALGUNAS PERSONAS**</sup>](fastidiar-verbal-y-constantemente-a-alguna-persona..md)
 24. <sup>**ACOSO**</sup>
 25. <sup>**ESTAFA A LA TIENDA DEL SERVIDOR**</sup>
 26. <sup>**USO DE SKIN INAPROPIADO**</sup>
