@@ -1,5 +1,6 @@
 ---
-description: Bienvenido al equipo de Staff de nordicosmc.com.
+description: Bienvenido al equipo de Staff de nordicosmc.
+icon: square-web-awesome-stroke
 coverY: 0
 ---
 
