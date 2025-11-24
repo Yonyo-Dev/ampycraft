@@ -19,11 +19,11 @@ noIndex: true
 12. [<sup>**COMPLICE DE USO DE CHEATS /CLIENTES ILEGALES / MACROS / MODS ILEGALES / TEXTUREPACK ILEGALES**</sup>](complice-de-uso-de-cheats-clientes-ilegales-macros-autoclick-mods-ilegales-texturepacks-il.md)
 13. [<sup>**ADMITIR USO DE CHEATS / CLIENTES ILEGALES / MACROS / AUTOCLICK**</sup>](admitir-uso-de-cheats-clientes-ilegales-macros-autoclick..md)
 14. [<sup>**ADMITIR USO DE MODS / TEXTUREPACKS ILEGALES**</sup>](admitir-uso-de-mods-texturepacks-ilegales..md)
-15. <sup>**CHEATS / MACROS ENCONTRADOS EN SS**</sup>
-16. <sup>**MODS / TEXTUREPACKS ENCONTRADOS EN SS**</sup>
-17. <sup>**EVADIR SANCION**</sup>
-18. <sup>**EVADIR SS / DESCONECTARSE CONGELADO**</sup>
-19. <sup>**MAL USO DE  /HELPOP /REPORT**</sup>
+15. [<sup>**CHEATS / MACROS ENCONTRADOS EN SS**</sup>](cheats-macros-encontrados-en-ss.md)
+16. [<sup>**MODS / TEXTUREPACKS ENCONTRADOS EN SS**</sup>](mods-texturepacks-ilegales-encontrado-en-ss..md)
+17. [<sup>**EVADIR SANCION**</sup>](evadir-sancion..md)
+18. [<sup>**EVADIR SS / DESCONECTARSE CONGELADO**</sup>](evadir-ss-desconectarse-congelado..md)
+19. [<sup>**MAL USO DE  /HELPOP /REPORT**</sup>](mal-uso-de-helpop-report..md)
 20. <sup>**MENTIR AL STAFF**</sup>
 21. <sup>**COMPARTIR PAGINAS WEB AJENAS**</sup>
 22. <sup>**COMPARTIR IP DE SERVIDOR AJENO**</sup>
