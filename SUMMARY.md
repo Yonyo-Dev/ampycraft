@@ -17,9 +17,6 @@
 ## SANCIONES
 
 * [GENERALES](sanciones/generales.md)
-
-## GENERALES
-
-* [Uso de Mayusculas](generales/uso-de-mayusculas.md)
-* [Flood](generales/flood.md)
-* [Spam](generales/spam.md)
+* [Uso de Mayusculas](sanciones/uso-de-mayusculas.md)
+* [Spam](sanciones/spam.md)
+* [Flood](sanciones/flood.md)
