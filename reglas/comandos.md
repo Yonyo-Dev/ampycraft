@@ -1,11 +1,11 @@
 ---
 description: Aquí encontrarás muchos de los comandos que son útiles a la hora de moderar.
+icon: angle-right
 ---
 
 # COMANDOS
 
-* \
-  /warn \[Nick] \[Razon] | Esto es para advertir al jugador cuando incumple alguna norma, antes de la sanción.
+* /warn \[Nick] \[Razon] | Esto es para advertir al jugador cuando incumple alguna norma, antes de la sanción.
 * /kick \[Nick] \[Razon] | Es para expulsar al jugador del servidor.
 * /tempmute \[Nick] \[Tiempo] \[Razón] | Silencia al jugador temporalmente en el servidor.
 * /checkmute \[Nick] | Permite ver si el jugador se encuentra muteado, la razón y quien lo sancionó

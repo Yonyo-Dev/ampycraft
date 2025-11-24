@@ -1,3 +1,7 @@
+---
+icon: angle-right
+---
+
 # GENERALES
 
 1.- Faltas del Staff. Las normas del servidor establecidas también deben de cumplirse dentro del equipo de moderación, cualquier falta en alguna de las normas especificadas en la wiki, concurrirá a una sanción a criterio del actual Staff Manager, pudiendo ser desde un Strike o dependiendo de la gravedad de esta puede incurrir en un demote parcial o total. (Todas las faltas que no se encuentren dentro de la siguientes reglas, quedan a manos del Staff Manager para decidir su sanción).
